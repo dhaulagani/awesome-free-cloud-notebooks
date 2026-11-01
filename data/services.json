@@ -1,0 +1,402 @@
+[
+  {
+    "category": "Flagship Free Interactive Notebooks",
+    "name": "Google Colab",
+    "url": "https://colab.research.google.com",
+    "referral_url": "https://colab.research.google.com",
+    "hardware": "Nvidia T4 GPU / CPU \u2022 12GB RAM \u2022 100GB Disk",
+    "quota_limits": "12-hour max session \u2022 Idle timeout ~90 mins \u2022 Dynamic availability",
+    "cc_required": false,
+    "check_url": "https://colab.research.google.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1413,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1413ms`"
+    }
+  },
+  {
+    "category": "Flagship Free Interactive Notebooks",
+    "name": "Kaggle Notebooks",
+    "url": "https://www.kaggle.com",
+    "referral_url": "https://www.kaggle.com/code",
+    "hardware": "2x Nvidia T4 or P100 GPU / TPU v3-8 / CPU \u2022 16GB-30GB RAM \u2022 73GB Disk",
+    "quota_limits": "30 Hours/week free GPU \u2022 9-hour execution limit \u2022 Phone verification",
+    "cc_required": false,
+    "check_url": "https://www.kaggle.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 355,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 355ms`"
+    }
+  },
+  {
+    "category": "Flagship Free Interactive Notebooks",
+    "name": "Lightning AI (Lightning Studios)",
+    "url": "https://lightning.ai",
+    "referral_url": "https://lightning.ai",
+    "hardware": "Nvidia T4/A10G GPU & multi-core CPU \u2022 Persistent storage \u2022 VS Code & JupyterLab",
+    "quota_limits": "22 Free GPU Credits/month (refreshed monthly) \u2022 Persistent disk environment",
+    "cc_required": false,
+    "check_url": "https://lightning.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 205,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 205ms`"
+    }
+  },
+  {
+    "category": "Flagship Free Interactive Notebooks",
+    "name": "Amazon SageMaker Studio Lab",
+    "url": "https://studiolab.sagemaker.aws",
+    "referral_url": "https://studiolab.sagemaker.aws",
+    "hardware": "Nvidia T4 GPU / CPU \u2022 16GB RAM \u2022 15GB Persistent Storage",
+    "quota_limits": "4 Hours/day GPU (12-hr runtime window) or 8 Hours/day CPU \u2022 No AWS account needed",
+    "cc_required": false,
+    "check_url": "https://studiolab.sagemaker.aws",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 445,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 445ms`"
+    }
+  },
+  {
+    "category": "Flagship Free Interactive Notebooks",
+    "name": "Paperspace Gradient",
+    "url": "https://www.paperspace.com/gradient",
+    "referral_url": "https://www.paperspace.com/gradient",
+    "hardware": "Free M4000 / P5000 GPU & Free CPU instances \u2022 Jupyter environment",
+    "quota_limits": "6-hour session duration \u2022 Auto-shutdown on idle \u2022 Community free tier",
+    "cc_required": false,
+    "check_url": "https://www.paperspace.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 142,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 142ms`"
+    }
+  },
+  {
+    "category": "Flagship Free Interactive Notebooks",
+    "name": "Google Cloud TPU Research Cloud (TRC)",
+    "url": "https://sites.research.google/trc/",
+    "referral_url": "https://sites.research.google/trc/",
+    "hardware": "Cloud TPU v2/v3/v4 pods (up to 110+ Cloud TPUs per cluster)",
+    "quota_limits": "Free 30-day grant (renewable) for open-source AI researchers & developers",
+    "cc_required": false,
+    "check_url": "https://sites.research.google/trc/",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 117,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 117ms`"
+    }
+  },
+  {
+    "category": "Collaborative & Modern Notebook Platforms",
+    "name": "Deepnote",
+    "url": "https://deepnote.com",
+    "referral_url": "https://deepnote.com",
+    "hardware": "Cloud CPU (2 vCPU, 5GB RAM) + Free starter GPU credits \u2022 Real-time multiplayer",
+    "quota_limits": "Unlimited free collaborative notebooks \u2022 Built-in SQL & Chart blocks",
+    "cc_required": false,
+    "check_url": "https://deepnote.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1372,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1372ms`"
+    }
+  },
+  {
+    "category": "Collaborative & Modern Notebook Platforms",
+    "name": "Datalore (JetBrains)",
+    "url": "https://datalore.jetbrains.com",
+    "referral_url": "https://datalore.jetbrains.com",
+    "hardware": "Cloud CPU & Nvidia GPU \u2022 JetBrains smart code completion for Python/Kotlin/R",
+    "quota_limits": "120 Free computation hours/month on standard CPU machines \u2022 10GB storage",
+    "cc_required": false,
+    "check_url": "https://datalore.jetbrains.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 968,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 968ms`"
+    }
+  },
+  {
+    "category": "Collaborative & Modern Notebook Platforms",
+    "name": "Saturn Cloud",
+    "url": "https://saturncloud.io",
+    "referral_url": "https://saturncloud.io",
+    "hardware": "Nvidia T4 GPU / 64GB RAM CPU instances \u2022 PyTorch, TensorFlow & RAPIDS",
+    "quota_limits": "30 Free compute hours/month \u2022 Pre-configured GPU ML environments",
+    "cc_required": false,
+    "check_url": "https://saturncloud.io",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 600,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 600ms`"
+    }
+  },
+  {
+    "category": "Collaborative & Modern Notebook Platforms",
+    "name": "CoCalc",
+    "url": "https://cocalc.com",
+    "referral_url": "https://cocalc.com",
+    "hardware": "Collaborative Jupyter, SageMath, R, Julia, Octave, and LaTeX runtime",
+    "quota_limits": "Free tier available for public/academic projects with community compute",
+    "cc_required": false,
+    "check_url": "https://cocalc.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 516,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 516ms`"
+    }
+  },
+  {
+    "category": "Collaborative & Modern Notebook Platforms",
+    "name": "MyBinder (Project Jupyter)",
+    "url": "https://mybinder.org",
+    "referral_url": "https://mybinder.org",
+    "hardware": "Community Kubernetes cluster \u2022 1-2 vCPU \u2022 2GB RAM",
+    "quota_limits": "Turn any public GitHub repo into live interactive Jupyter notebook \u2022 0 sign-up",
+    "cc_required": false,
+    "check_url": "https://mybinder.org",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 929,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 929ms`"
+    }
+  },
+  {
+    "category": "Cloud Dev Containers & Linux Workspaces",
+    "name": "GitHub Codespaces",
+    "url": "https://github.com/features/codespaces",
+    "referral_url": "https://github.com/features/codespaces",
+    "hardware": "2-core to 4-core vCPU \u2022 8GB RAM \u2022 32GB SSD storage \u2022 Full Docker runtime",
+    "quota_limits": "60 Core-hours/month free for all GitHub accounts \u2022 Browser or local VS Code",
+    "cc_required": false,
+    "check_url": "https://github.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 120,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 120ms`"
+    }
+  },
+  {
+    "category": "Cloud Dev Containers & Linux Workspaces",
+    "name": "Google Cloud Shell",
+    "url": "https://shell.cloud.google.com",
+    "referral_url": "https://shell.cloud.google.com",
+    "hardware": "Free Debian GCE VM (e2-small) \u2022 5GB persistent $HOME storage \u2022 Web IDE",
+    "quota_limits": "50 Hours/week free \u2022 Pre-installed Python, pip, Docker, git, gcloud, kubectl",
+    "cc_required": false,
+    "check_url": "https://cloud.google.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 142,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 142ms`"
+    }
+  },
+  {
+    "category": "Cloud Dev Containers & Linux Workspaces",
+    "name": "Gitpod",
+    "url": "https://www.gitpod.io",
+    "referral_url": "https://www.gitpod.io",
+    "hardware": "Standard Cloud Linux container \u2022 VS Code desktop/browser \u2022 Full root access",
+    "quota_limits": "50 Free workspace hours/month on Open Source & personal repos",
+    "cc_required": false,
+    "check_url": "https://www.gitpod.io",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 419,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 419ms`"
+    }
+  },
+  {
+    "category": "Cloud Dev Containers & Linux Workspaces",
+    "name": "Replit",
+    "url": "https://replit.com",
+    "referral_url": "https://replit.com",
+    "hardware": "Cloud development sandbox \u2022 Multiplayer real-time coding \u2022 Package manager",
+    "quota_limits": "Free public repls \u2022 Interactive shell & instant web deployment",
+    "cc_required": false,
+    "check_url": "https://replit.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 403,
+      "latency_ms": 121,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 121ms`"
+    }
+  },
+  {
+    "category": "Cloud Dev Containers & Linux Workspaces",
+    "name": "Oracle Cloud (Always Free)",
+    "url": "https://www.oracle.com/cloud/free/",
+    "referral_url": "https://www.oracle.com/cloud/free/",
+    "hardware": "4 Ampere ARM vCPU cores \u2022 24GB RAM \u2022 200GB NVMe Block Volume (Permanent VM)",
+    "quota_limits": "Permanently 100% Free compute (run JupyterHub / Ollama 24/7 self-hosted)",
+    "cc_required": true,
+    "check_url": "https://www.oracle.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 403,
+      "latency_ms": 183,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 183ms`"
+    }
+  },
+  {
+    "category": "Serverless GPU & Interactive App Spaces",
+    "name": "Hugging Face Spaces",
+    "url": "https://huggingface.co/spaces",
+    "referral_url": "https://huggingface.co/spaces",
+    "hardware": "2 vCPU \u2022 16GB RAM \u2022 50GB Disk (Free tier) \u2022 Gradio, Streamlit, or Docker",
+    "quota_limits": "Unlimited public interactive ML demo hosting & notebook-like micro-apps",
+    "cc_required": false,
+    "check_url": "https://huggingface.co",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 221,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 221ms`"
+    }
+  },
+  {
+    "category": "Serverless GPU & Interactive App Spaces",
+    "name": "Modal",
+    "url": "https://modal.com",
+    "referral_url": "https://modal.com",
+    "hardware": "Serverless GPU functions (Nvidia T4, L4, A100 40/80GB, H100) on demand",
+    "quota_limits": "$30/month ongoing free compute tier (equivalent to ~50 hours of free T4 GPU)",
+    "cc_required": true,
+    "check_url": "https://modal.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 1231,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 1231ms`"
+    }
+  },
+  {
+    "category": "Serverless GPU & Interactive App Spaces",
+    "name": "Val Town",
+    "url": "https://www.val.town",
+    "referral_url": "https://www.val.town",
+    "hardware": "Serverless JavaScript/TypeScript execution runtime with built-in SQLite",
+    "quota_limits": "Free tier for running scheduled AI tasks, lightweight API integrations, and scripts",
+    "cc_required": false,
+    "check_url": "https://www.val.town",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 447,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 447ms`"
+    }
+  },
+  {
+    "category": "Serverless GPU & Interactive App Spaces",
+    "name": "RunPod",
+    "url": "https://www.runpod.io",
+    "referral_url": "https://www.runpod.io",
+    "hardware": "Decentralized & datacenter GPU cloud (RTX 3090, 4090, A100, H100)",
+    "quota_limits": "Free signup credits for testing serverless endpoints & lowest-cost spot pods",
+    "cc_required": false,
+    "check_url": "https://www.runpod.io",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 207,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 207ms`"
+    }
+  },
+  {
+    "category": "Serverless GPU & Interactive App Spaces",
+    "name": "JarvisLabs",
+    "url": "https://jarvislabs.ai",
+    "referral_url": "https://jarvislabs.ai",
+    "hardware": "RTX 5000, 6000, A5000, A6000, A100 cloud GPU instances with JupyterLab",
+    "quota_limits": "Free welcome trial credits on registration for fast GPU training sessions",
+    "cc_required": false,
+    "check_url": "https://jarvislabs.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 291,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 291ms`"
+    }
+  },
+  {
+    "category": "Serverless GPU & Interactive App Spaces",
+    "name": "Vast.ai",
+    "url": "https://vast.ai",
+    "referral_url": "https://vast.ai",
+    "hardware": "Peer-to-peer compute marketplace for on-demand PyTorch & TensorFlow instances",
+    "quota_limits": "Low barrier trial credit + sub-$0.15/hr spot pricing on dedicated GPUs",
+    "cc_required": false,
+    "check_url": "https://vast.ai",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 161,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 161ms`"
+    }
+  },
+  {
+    "category": "Serverless GPU & Interactive App Spaces",
+    "name": "Koyeb",
+    "url": "https://www.koyeb.com",
+    "referral_url": "https://www.koyeb.com",
+    "hardware": "2 Free Nano container instances (512MB RAM, 0.1 vCPU, 5.5GB SSD)",
+    "quota_limits": "Permanently free container runtime for lightweight ML inference webhooks",
+    "cc_required": false,
+    "check_url": "https://www.koyeb.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 341,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 341ms`"
+    }
+  },
+  {
+    "category": "Serverless GPU & Interactive App Spaces",
+    "name": "Render",
+    "url": "https://render.com",
+    "referral_url": "https://render.com",
+    "hardware": "Free web services (512MB RAM) + cron workers + SSL",
+    "quota_limits": "Free monthly hours for staging backend servers and automated AI scripts",
+    "cc_required": false,
+    "check_url": "https://render.com",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 318,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 318ms`"
+    }
+  },
+  {
+    "category": "Serverless GPU & Interactive App Spaces",
+    "name": "Railway",
+    "url": "https://railway.app",
+    "referral_url": "https://railway.app",
+    "hardware": "Serverless micro-VM containers with 512MB RAM",
+    "quota_limits": "$5/month free execution credit for running automated data & ML tasks",
+    "cc_required": false,
+    "check_url": "https://railway.app",
+    "health": {
+      "status": "ONLINE",
+      "code": 200,
+      "latency_ms": 486,
+      "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) `\u26a1 486ms`"
+    }
+  }
+]
