@@ -11,7 +11,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 170,
+      "latency_ms": 125,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -43,7 +43,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 122,
+      "latency_ms": 106,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -75,7 +75,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 149,
+      "latency_ms": 93,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -91,7 +91,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 160,
+      "latency_ms": 86,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -107,7 +107,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 369,
+      "latency_ms": 213,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -123,7 +123,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 415,
+      "latency_ms": 349,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -139,7 +139,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 222,
+      "latency_ms": 228,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -155,7 +155,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 351,
+      "latency_ms": 269,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -171,7 +171,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 257,
+      "latency_ms": 353,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -187,7 +187,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 91,
+      "latency_ms": 46,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -203,7 +203,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 141,
+      "latency_ms": 144,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -219,7 +219,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 471,
+      "latency_ms": 306,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -235,7 +235,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 135,
+      "latency_ms": 75,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -267,7 +267,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 107,
+      "latency_ms": 95,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -283,7 +283,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 256,
+      "latency_ms": 49,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -299,7 +299,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 393,
+      "latency_ms": 423,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -315,7 +315,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 376,
+      "latency_ms": 95,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -331,7 +331,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 198,
+      "latency_ms": 91,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -347,7 +347,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 227,
+      "latency_ms": 125,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -363,7 +363,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 251,
+      "latency_ms": 273,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -379,7 +379,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 153,
+      "latency_ms": 253,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   },
@@ -395,7 +395,7 @@
     "health": {
       "status": "ONLINE",
       "code": 200,
-      "latency_ms": 213,
+      "latency_ms": 95,
       "badge": "![Online](https://img.shields.io/badge/Status-Online-3fb950?style=flat-square) "
     }
   }
